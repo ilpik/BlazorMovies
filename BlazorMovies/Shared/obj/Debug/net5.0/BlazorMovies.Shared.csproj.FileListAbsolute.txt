@@ -1,0 +1,12 @@
+D:\c# projects\BlazorMovies\BlazorMovies\Shared\bin\Debug\net5.0\BlazorMovies.Shared.deps.json
+D:\c# projects\BlazorMovies\BlazorMovies\Shared\bin\Debug\net5.0\BlazorMovies.Shared.dll
+D:\c# projects\BlazorMovies\BlazorMovies\Shared\bin\Debug\net5.0\ref\BlazorMovies.Shared.dll
+D:\c# projects\BlazorMovies\BlazorMovies\Shared\bin\Debug\net5.0\BlazorMovies.Shared.pdb
+D:\c# projects\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# projects\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.AssemblyInfoInputs.cache
+D:\c# projects\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.AssemblyInfo.cs
+D:\c# projects\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.csproj.CoreCompileInputs.cache
+D:\c# projects\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.dll
+D:\c# projects\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\ref\BlazorMovies.Shared.dll
+D:\c# projects\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.pdb
+D:\c# projects\BlazorMovies\BlazorMovies\Shared\obj\Debug\net5.0\BlazorMovies.Shared.csprojAssemblyReference.cache
